@@ -1,0 +1,7 @@
+extrair a pasta etimder para o htdocs
+abrir phpmyadmin e criar banco etimderdb
+arrumar o endereço do site no banco de dados na tabela wp-options ou acessar do 
+http://192.168.1.39:81/etimder
+
+
+Feito por Lucca Prado, Renan Gonçalves e Vitoria maria.

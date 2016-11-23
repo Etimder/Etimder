@@ -1,0 +1,2 @@
+http://www.dsc.ufcg.edu.br/~jacques/cursos/map/html/uml/diagramas/interacao/sequencia.htm
+https://msdn.microsoft.com/pt-br/library/dd409377.aspx
