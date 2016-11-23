@@ -876,12 +876,12 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 =======
 (612, 'mail_set_return_path', '', 'yes'),
 >>>>>>> b069a5e0eaf933b76c25f1fd1c57018fe236076b
-(613, 'smtp_host', 'smtp.zoho.com', 'yes'),
+(613, 'smtp_host', 'smtp.mail.com', 'yes'),
 (614, 'smtp_port', '465', 'yes'),
 (615, 'smtp_ssl', 'ssl', 'yes'),
 (616, 'smtp_auth', 'true', 'yes'),
-(617, 'smtp_user', 'etimderdev@zoho.com', 'yes'),
-(618, 'smtp_pass', 'luccarenanvivi', 'yes'),
+(617, 'smtp_user', 'mail', 'yes'),
+(618, 'smtp_pass', 'password', 'yes'),
 (619, 'oa_social_login_api_settings_verified', '1', 'yes'),
 <<<<<<< HEAD
 (620, 'oa_social_login_settings', 'a:31:{s:22:"api_connection_handler";s:4:"curl";s:24:"api_connection_use_https";i:1;s:13:"api_subdomain";s:7:"etimder";s:23:"asynchronous_javascript";i:1;s:7:"api_key";s:36:"f6da6f0b-966e-4aae-a957-1a32a05ca4a5";s:10:"api_secret";s:36:"b3966307-0125-4f2b-b291-3a6101f2b242";s:9:"providers";a:2:{s:8:"facebook";i:1;s:6:"google";i:1;}s:27:"plugin_add_column_user_list";i:0;s:20:"plugin_require_email";i:0;s:25:"plugin_require_email_text";s:152:"<strong>We unfortunately could not retrieve your email address from %s.</strong> Please enter your email address in the form below in order to continue.";s:14:"plugin_caption";s:13:"Connect with:";s:29:"plugin_link_verified_accounts";i:1;s:31:"plugin_show_avatars_in_comments";s:1:"1";s:24:"plugin_use_small_buttons";i:0;s:28:"plugin_display_in_login_form";i:1;s:26:"plugin_login_form_redirect";s:6:"custom";s:37:"plugin_login_form_redirect_custom_url";s:14:"/etimder/aviso";s:33:"plugin_protect_login_redirect_url";i:0;s:35:"plugin_display_in_registration_form";i:1;s:33:"plugin_registration_form_redirect";s:6:"custom";s:44:"plugin_registration_form_redirect_custom_url";s:14:"/etimder/aviso";s:40:"plugin_protect_registration_redirect_url";i:0;s:35:"plugin_comment_show_if_members_only";i:1;s:27:"plugin_comment_auto_approve";i:0;s:19:"plugin_comment_show";i:1;s:19:"plugin_profile_show";i:1;s:31:"plugin_shortcode_login_redirect";s:7:"current";s:35:"plugin_shortcode_login_redirect_url";s:0:"";s:34:"plugin_shortcode_register_redirect";s:7:"current";s:38:"plugin_shortcode_register_redirect_url";s:0:"";s:19:"plugin_notify_admin";i:0;}', 'yes'),
